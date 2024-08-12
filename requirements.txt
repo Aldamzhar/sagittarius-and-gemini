@@ -1,0 +1,7 @@
+google-generativeai
+streamlit
+streamlit-mic-recorder
+openai
+firebase-admin
+matplotlib
+textblob
